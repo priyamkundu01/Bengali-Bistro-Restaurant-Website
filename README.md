@@ -1,4 +1,4 @@
-# How to setup Quiz App
+# How to setup Bengali Bistro Restaurant Website
 
 ## Pre-requisites
 * [Download Git](https://git-scm.com/downloads)
